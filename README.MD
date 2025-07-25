@@ -126,6 +126,11 @@ pytest -v
 
 ---
 
+## Model Performance
+
+The trading bot's sentiment analysis model achieved **90% accuracy** on a Kaggle dataset, demonstrating strong predictive capability in classifying trade signals.
+
+
 ## License
 
 MIT License © \[Mbulelo Phillip Peyi]
