@@ -1,5 +1,3 @@
-Sure! Here’s a professional and clear **README.md** template for your trading bot project using FastAPI and Alpaca API:
-
 ````markdown
 # Trading Bot API
 
