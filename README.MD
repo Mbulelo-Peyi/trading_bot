@@ -128,17 +128,16 @@ pytest -v
 
 ## License
 
-MIT License © \[Your Name]
+MIT License © \[Mbulelo Phillip Peyi]
 
 ---
 
 ## Contact
 
-For questions or suggestions, reach out at \[[your-email@example.com](mailto:your-email@example.com)].
+For questions or suggestions, reach out at \[[notseenyet013@gmail.com](mailto:notseenyet013@gmail.com)].
 
 ```
 
 ---
 
-If you want, I can help tailor this README further to your exact project details or add instructions for deployment, Docker, or CI/CD!
 ```
